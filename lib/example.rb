@@ -1,4 +1,4 @@
-rubylib/example.rb 
+require 'respec' 
 
 def say_hello_ten_times
   phrase = "Hello World!"
