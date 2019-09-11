@@ -1,5 +1,5 @@
 require 'respec' 
-require_relative
+require_relative 'say_hello_ten_times' 
 
 def say_hello_ten_times
   phrase = "Hello World!"
